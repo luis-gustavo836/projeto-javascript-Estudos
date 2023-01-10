@@ -1,0 +1,26 @@
+body{
+background: rgb(167, 9, 9);
+color:white;
+}
+header{
+color:yellow;
+font: normal 25pt Arial;
+text-align: center;
+}
+section{
+background-color: white;
+font:normal 20pt Arial;
+color:black;
+width: 500px;
+padding: 15px;
+border-radius: 30px;
+margin: auto;
+box-shadow: 5pt 5pt 10pt;
+}
+footer{
+text-align:center;
+font:italic;
+}
+select#scrou{
+    width: 150px
+}

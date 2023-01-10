@@ -1,0 +1,37 @@
+body{
+    background: rgb(62, 62, 200);
+    font: normal 20pt Arial;
+    color: white; 
+}
+header{
+    color: white;
+    text-align: center;
+    font-size: 25pt;
+}
+section{
+    overflow:hidden; 
+    background-color: white;
+    color: black;
+    border-radius: 20pt;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px
+}
+section p span#numero{
+    margin: 30px 10px 0 0;
+    font-size: 30px;
+}
+section input#escreva{
+    border: 2px solid black;
+    padding: 2px;
+}
+section input#botao{
+    background: white;
+    color: black;
+    font-size: 16px;
+}
+footer{
+    text-align: center;
+    font:italic 
+}
